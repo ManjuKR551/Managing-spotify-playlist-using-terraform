@@ -1,0 +1,3 @@
+variable "apikey" {
+  type = string
+}
